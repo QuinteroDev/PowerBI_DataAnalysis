@@ -1,10 +1,10 @@
-## Iván Ruiz Quintero. Analysis of Service Level for Global Tech Solutions in 2020.
+## Analysis of Service Level for Global Tech Solutions in 2020.
 
 ## Analyze the data
 
 Upon initial exploration of the dataset provided by Global Tech Solutions, I identified details of delivery per line, including four columns of dates and information about locations, customers, delivery types, and organizational details. This dataset contained all the necessary elements to develop a service level dashboard focusing on timely versus delayed deliveries.
 
-## Clean the data
+## Clean the data
 
 I started by uploading the provided CSV file into PowerQuery, taking the following steps to prepare the data:
 
@@ -34,7 +34,7 @@ I established "Countries" and "Incoterms" tables to group relevant columns, faci
 
 I formulated a "Dates" table using DAX's Calendar function, incorporating month names and numbers for sorting purposes within visualizations.
 
-## Visualize your results and your analysis
+## Visualize your results and your analysis
 
 In the report view, I concealed columns not utilized to streamline the interface. I crafted five visualizations:
 
