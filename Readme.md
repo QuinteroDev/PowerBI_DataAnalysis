@@ -34,7 +34,7 @@ I established "Countries" and "Incoterms" tables to group relevant columns, faci
 
 I formulated a "Dates" table using DAX's Calendar function, incorporating month names and numbers for sorting purposes within visualizations.
 
-## Visualize your results and your analysis
+## Visualize results and analisis.
 
 In the report view, I concealed columns not utilized to streamline the interface. I crafted five visualizations:
 
