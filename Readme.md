@@ -1,4 +1,6 @@
-## Analysis of Service Level for Global Tech Solutions in 2020.
+# Analysis of Service Level for Global Tech Solutions in 2020
+
+![Main Display](./Images/Main%20Display.png)
 
 ## Analyze the data
 
@@ -34,7 +36,9 @@ I established "Countries" and "Incoterms" tables to group relevant columns, faci
 
 I formulated a "Dates" table using DAX's Calendar function, incorporating month names and numbers for sorting purposes within visualizations.
 
-## Visualize results and analisis.
+## Visualize results and analysis
+
+![Display Filters](./Images/Display%20FIlters.png)
 
 In the report view, I concealed columns not utilized to streamline the interface. I crafted five visualizations:
 
@@ -47,6 +51,7 @@ In the report view, I concealed columns not utilized to streamline the interface
 **Filters Instruction**: Filters are initially hidden; users can deploy them via arrows, selecting options like Country/Plant, Incoterms, and Delivery Type Code to tailor the data displayed.
 
 **Measures Folder**: Contains three measures—'Delivered on Time', 'Target Service Level', and 'Top Customer Deliveries'—centralized for ease of access.
+
 
 The dashboard's aesthetics are designed to be clean and professional, utilizing a corporate color scheme.
 
